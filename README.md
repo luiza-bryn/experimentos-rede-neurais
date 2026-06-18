@@ -1,6 +1,6 @@
 # rede-neural-mlp
 
-Notebook [trabalho_pratico_2_redes_neurais.ipynb]
+Notebook [rede_neural.ipynb]
 
 ---
 
