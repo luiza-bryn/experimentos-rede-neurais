@@ -1,4 +1,4 @@
-# rede-neural-mlp
+# experimentos-rede-neurais
 
 Notebook [rede_neural.ipynb]
 
